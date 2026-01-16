@@ -1,4 +1,2 @@
 # Remote list URL containing exact domains to whitelist
 # This is specifically for handcrafted lists only, do not use regular allowlists here!
-
-www.naver.com

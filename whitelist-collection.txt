@@ -1,1 +1,4 @@
-whitelist-urls.txt
+# Remote list URL containing list of allowlists to import
+# URLs to single lists should be added manually
+
+https://raw.githubusercontent.com/bozlo/pihole_updatelists/refs/heads/main/whitelist-urls.txt
