@@ -1,0 +1,6 @@
+# Remote list URL containing exact domains to blacklist
+# This is specifically for handcrafted lists only, do not use regular blocklists here!
+
+0.0.0.0 www.xvideo.com
+0.0.0.0 www.xnxx.com
+0.0.0.0 www.porn.com

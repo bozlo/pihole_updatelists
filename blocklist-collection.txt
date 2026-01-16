@@ -1,4 +1,5 @@
 # Remote list URL containing list of blocklists to import
 # URLs to single lists should be added manually
 
-https://raw.githubusercontent.com/bozlo/pihole_updatelists/refs/heads/main/blocklist-urls.txt
+https://raw.githubusercontent.com/bozlo/pihole_updatelists/refs/heads/main/adult-urls.txt
+https://raw.githubusercontent.com/bozlo/pihole_updatelists/refs/heads/main/block-general-urls.txt
