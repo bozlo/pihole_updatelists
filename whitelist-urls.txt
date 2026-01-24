@@ -1,2 +1,3 @@
 # Remote list URL containing exact domains to whitelist
 # This is specifically for handcrafted lists only, do not use regular allowlists here!
+click.em.samsclub.com
